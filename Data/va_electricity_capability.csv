@@ -1,0 +1,1257 @@
+period,stateId,stateDescription,producertypeid,producerTypeDescription,energysourceid,energySourceDescription,capability,capability-units
+2024,VA,Virginia,EU,Electric Utilities,ALL,All,21256.2,megawatts
+2024,VA,Virginia,EU,Electric Utilities,BAT,Battery,60,megawatts
+2024,VA,Virginia,EU,Electric Utilities,COL,Coal,1487.1,megawatts
+2024,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3253.1,megawatts
+2024,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,821.6,megawatts
+2024,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,9963.4,megawatts
+2024,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6132.4,megawatts
+2024,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3370,megawatts
+2024,VA,Virginia,EU,Electric Utilities,NGIC,Natural Gas - IC,1,megawatts
+2024,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,460,megawatts
+2024,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2024,VA,Virginia,EU,Electric Utilities,PET,Petroleum,363.6,megawatts
+2024,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,260.4,megawatts
+2024,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,103.2,megawatts
+2024,VA,Virginia,EU,Electric Utilities,SOL,Solar,1574.4,megawatts
+2024,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,1574.4,megawatts
+2024,VA,Virginia,EU,Electric Utilities,WND,Wind,12,megawatts
+2024,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,ALL,All,7890.3,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,BAT,Battery,10.5,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,COL,Coal,43,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,45,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3749.5,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2777.7,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,842,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,2,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,127.8,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,223.6,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,378,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,347,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,31,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,3104,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,3104,megawatts
+2024,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,336.7,megawatts
+2024,VA,Virginia,TOT,All sectors,ALL,All,29146.5,megawatts
+2024,VA,Virginia,TOT,All sectors,BAT,Battery,70.5,megawatts
+2024,VA,Virginia,TOT,All sectors,COL,Coal,1530.1,megawatts
+2024,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3253.1,megawatts
+2024,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.6,megawatts
+2024,VA,Virginia,TOT,All sectors,NG,Natural Gas,13712.9,megawatts
+2024,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8910.1,megawatts
+2024,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4212,megawatts
+2024,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,3,megawatts
+2024,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,587.8,megawatts
+2024,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2024,VA,Virginia,TOT,All sectors,OBM,Other Biomass,223.6,megawatts
+2024,VA,Virginia,TOT,All sectors,PET,Petroleum,741.6,megawatts
+2024,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,607.4,megawatts
+2024,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,134.2,megawatts
+2024,VA,Virginia,TOT,All sectors,SOL,Solar,4678.4,megawatts
+2024,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,4678.4,megawatts
+2024,VA,Virginia,TOT,All sectors,WND,Wind,12,megawatts
+2024,VA,Virginia,TOT,All sectors,WOO,Wood,489.7,megawatts
+2023,VA,Virginia,EU,Electric Utilities,ALL,All,21020.3,megawatts
+2023,VA,Virginia,EU,Electric Utilities,BAT,Battery,60,megawatts
+2023,VA,Virginia,EU,Electric Utilities,COL,Coal,1487.1,megawatts
+2023,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3253.1,megawatts
+2023,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,821.6,megawatts
+2023,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,9955.3,megawatts
+2023,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6128.4,megawatts
+2023,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3365.9,megawatts
+2023,VA,Virginia,EU,Electric Utilities,NGIC,Natural Gas - IC,1,megawatts
+2023,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,460,megawatts
+2023,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2023,VA,Virginia,EU,Electric Utilities,PET,Petroleum,364.8,megawatts
+2023,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,260.4,megawatts
+2023,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,104.4,megawatts
+2023,VA,Virginia,EU,Electric Utilities,SOL,Solar,1345.4,megawatts
+2023,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,1345.4,megawatts
+2023,VA,Virginia,EU,Electric Utilities,WND,Wind,12,megawatts
+2023,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,ALL,All,7197.9,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,BAT,Battery,10.5,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,COL,Coal,43,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,45,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3771.2,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2770.4,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,880,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,120.8,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,298.9,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,372.4,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,343.8,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,28.6,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,2313.2,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,2313.2,megawatts
+2023,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,343.7,megawatts
+2023,VA,Virginia,TOT,All sectors,ALL,All,28218.2,megawatts
+2023,VA,Virginia,TOT,All sectors,BAT,Battery,70.5,megawatts
+2023,VA,Virginia,TOT,All sectors,COL,Coal,1530.1,megawatts
+2023,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3253.1,megawatts
+2023,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.6,megawatts
+2023,VA,Virginia,TOT,All sectors,NG,Natural Gas,13726.5,megawatts
+2023,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8898.8,megawatts
+2023,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4245.9,megawatts
+2023,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1,megawatts
+2023,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,580.8,megawatts
+2023,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2023,VA,Virginia,TOT,All sectors,OBM,Other Biomass,298.9,megawatts
+2023,VA,Virginia,TOT,All sectors,PET,Petroleum,737.2,megawatts
+2023,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,604.2,megawatts
+2023,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,133,megawatts
+2023,VA,Virginia,TOT,All sectors,SOL,Solar,3658.6,megawatts
+2023,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,3658.6,megawatts
+2023,VA,Virginia,TOT,All sectors,WND,Wind,12,megawatts
+2023,VA,Virginia,TOT,All sectors,WOO,Wood,496.7,megawatts
+2022,VA,Virginia,EU,Electric Utilities,ALL,All,22592.2,megawatts
+2022,VA,Virginia,EU,Electric Utilities,COL,Coal,2493,megawatts
+2022,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2022,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,821.6,megawatts
+2022,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,10056.6,megawatts
+2022,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6233.3,megawatts
+2022,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2022,VA,Virginia,EU,Electric Utilities,NGIC,Natural Gas - IC,1,megawatts
+2022,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,460,megawatts
+2022,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2022,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1152.4,megawatts
+2022,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,261,megawatts
+2022,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,101.4,megawatts
+2022,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,790,megawatts
+2022,VA,Virginia,EU,Electric Utilities,SOL,Solar,1094.6,megawatts
+2022,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,1094.6,megawatts
+2022,VA,Virginia,EU,Electric Utilities,WND,Wind,12,megawatts
+2022,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,ALL,All,6577,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,BAT,Battery,10.5,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,COL,Coal,43,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,45,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3747,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2738.9,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,887,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,.3,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,120.8,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,305.5,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,384,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,346.4,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,37.6,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,1698.3,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,1698.3,megawatts
+2022,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,343.7,megawatts
+2022,VA,Virginia,TOT,All sectors,ALL,All,29169.2,megawatts
+2022,VA,Virginia,TOT,All sectors,BAT,Battery,10.5,megawatts
+2022,VA,Virginia,TOT,All sectors,COL,Coal,2536,megawatts
+2022,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2022,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.6,megawatts
+2022,VA,Virginia,TOT,All sectors,NG,Natural Gas,13803.6,megawatts
+2022,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8972.2,megawatts
+2022,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4249.3,megawatts
+2022,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2022,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,580.8,megawatts
+2022,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2022,VA,Virginia,TOT,All sectors,OBM,Other Biomass,305.5,megawatts
+2022,VA,Virginia,TOT,All sectors,PET,Petroleum,1536.4,megawatts
+2022,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,607.4,megawatts
+2022,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,139,megawatts
+2022,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,790,megawatts
+2022,VA,Virginia,TOT,All sectors,SOL,Solar,2792.9,megawatts
+2022,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,2792.9,megawatts
+2022,VA,Virginia,TOT,All sectors,WND,Wind,12,megawatts
+2022,VA,Virginia,TOT,All sectors,WOO,Wood,496.7,megawatts
+2021,VA,Virginia,EU,Electric Utilities,ALL,All,22304,megawatts
+2021,VA,Virginia,EU,Electric Utilities,COL,Coal,2493,megawatts
+2021,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2021,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,821.6,megawatts
+2021,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,10055.6,megawatts
+2021,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6233.3,megawatts
+2021,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2021,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,460,megawatts
+2021,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2021,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2021,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1164.4,megawatts
+2021,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,273,megawatts
+2021,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,101.4,megawatts
+2021,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,790,megawatts
+2021,VA,Virginia,EU,Electric Utilities,SOL,Solar,794.4,megawatts
+2021,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,794.4,megawatts
+2021,VA,Virginia,EU,Electric Utilities,WND,Wind,12,megawatts
+2021,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,ALL,All,6211.3,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,COL,Coal,43,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,44.4,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3650.6,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2645.5,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,883,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.3,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,120.8,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,306.9,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,OT,Other,96,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,385.1,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,347.5,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,37.6,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,1342.7,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,1342.7,megawatts
+2021,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.6,megawatts
+2021,VA,Virginia,TOT,All sectors,ALL,All,28515.3,megawatts
+2021,VA,Virginia,TOT,All sectors,COL,Coal,2536,megawatts
+2021,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2021,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2021,VA,Virginia,TOT,All sectors,NG,Natural Gas,13706.2,megawatts
+2021,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8878.8,megawatts
+2021,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4245.3,megawatts
+2021,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2021,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,580.8,megawatts
+2021,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2021,VA,Virginia,TOT,All sectors,OBM,Other Biomass,307.9,megawatts
+2021,VA,Virginia,TOT,All sectors,OT,Other,96,megawatts
+2021,VA,Virginia,TOT,All sectors,PET,Petroleum,1549.5,megawatts
+2021,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,620.5,megawatts
+2021,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,139,megawatts
+2021,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,790,megawatts
+2021,VA,Virginia,TOT,All sectors,SOL,Solar,2137.1,megawatts
+2021,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,2137.1,megawatts
+2021,VA,Virginia,TOT,All sectors,WND,Wind,12,megawatts
+2021,VA,Virginia,TOT,All sectors,WOO,Wood,495.6,megawatts
+2020,VA,Virginia,EU,Electric Utilities,ALL,All,22024.4,megawatts
+2020,VA,Virginia,EU,Electric Utilities,COL,Coal,2493,megawatts
+2020,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2020,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,832.1,megawatts
+2020,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,10845.6,megawatts
+2020,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6233.3,megawatts
+2020,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2020,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,1250,megawatts
+2020,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2020,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2020,VA,Virginia,EU,Electric Utilities,PET,Petroleum,374.4,megawatts
+2020,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,273,megawatts
+2020,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,101.4,megawatts
+2020,VA,Virginia,EU,Electric Utilities,SOL,Solar,516.3,megawatts
+2020,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,516.3,megawatts
+2020,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,ALL,All,5918.2,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,COL,Coal,385.7,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,33.9,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3646.5,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2643.8,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,883,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.3,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,118.4,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,308.3,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,OT,Other,96,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,386.5,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,348.1,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,718.7,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,718.7,megawatts
+2020,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.6,megawatts
+2020,VA,Virginia,TOT,All sectors,ALL,All,27942.6,megawatts
+2020,VA,Virginia,TOT,All sectors,COL,Coal,2878.7,megawatts
+2020,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2020,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2020,VA,Virginia,TOT,All sectors,NG,Natural Gas,14492.1,megawatts
+2020,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8877.1,megawatts
+2020,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4245.3,megawatts
+2020,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2020,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,1368.4,megawatts
+2020,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2020,VA,Virginia,TOT,All sectors,OBM,Other Biomass,309.3,megawatts
+2020,VA,Virginia,TOT,All sectors,OT,Other,96,megawatts
+2020,VA,Virginia,TOT,All sectors,PET,Petroleum,760.9,megawatts
+2020,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,621.1,megawatts
+2020,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,139.8,megawatts
+2020,VA,Virginia,TOT,All sectors,SOL,Solar,1235,megawatts
+2020,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,1235,megawatts
+2020,VA,Virginia,TOT,All sectors,WOO,Wood,495.6,megawatts
+2019,VA,Virginia,EU,Electric Utilities,ALL,All,22504.8,megawatts
+2019,VA,Virginia,EU,Electric Utilities,COL,Coal,2493,megawatts
+2019,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2019,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,832.1,megawatts
+2019,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,10041.6,megawatts
+2019,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6219.3,megawatts
+2019,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2019,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,460,megawatts
+2019,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2019,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2019,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1951.6,megawatts
+2019,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,273,megawatts
+2019,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,102.6,megawatts
+2019,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2019,VA,Virginia,EU,Electric Utilities,SOL,Solar,223.5,megawatts
+2019,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,223.5,megawatts
+2019,VA,Virginia,EU,Electric Utilities,WOO,Wood,153,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,ALL,All,5539.9,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,COL,Coal,385.9,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,33.9,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3651.4,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2648.7,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,883,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.3,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,118.4,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,308.3,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,OT,Other,96,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,389.2,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,350.8,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,332.6,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,332.6,megawatts
+2019,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.6,megawatts
+2019,VA,Virginia,TOT,All sectors,ALL,All,28044.7,megawatts
+2019,VA,Virginia,TOT,All sectors,COL,Coal,2878.9,megawatts
+2019,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2019,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2019,VA,Virginia,TOT,All sectors,NG,Natural Gas,13693,megawatts
+2019,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,8868,megawatts
+2019,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4245.3,megawatts
+2019,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2019,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,578.4,megawatts
+2019,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2019,VA,Virginia,TOT,All sectors,OBM,Other Biomass,309.3,megawatts
+2019,VA,Virginia,TOT,All sectors,OT,Other,96,megawatts
+2019,VA,Virginia,TOT,All sectors,PET,Petroleum,2340.8,megawatts
+2019,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,623.8,megawatts
+2019,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,141,megawatts
+2019,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2019,VA,Virginia,TOT,All sectors,SOL,Solar,556.1,megawatts
+2019,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,556.1,megawatts
+2019,VA,Virginia,TOT,All sectors,WOO,Wood,495.6,megawatts
+2018,VA,Virginia,EU,Electric Utilities,ALL,All,23975.4,megawatts
+2018,VA,Virginia,EU,Electric Utilities,COL,Coal,3214,megawatts
+2018,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2018,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.6,megawatts
+2018,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,10856.6,megawatts
+2018,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,6491.3,megawatts
+2018,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2018,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,1003,megawatts
+2018,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2018,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2018,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1953,megawatts
+2018,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,273,megawatts
+2018,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,104,megawatts
+2018,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2018,VA,Virginia,EU,Electric Utilities,SOL,Solar,61.2,megawatts
+2018,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,61.2,megawatts
+2018,VA,Virginia,EU,Electric Utilities,WOO,Wood,236,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,ALL,All,5659.4,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,COL,Coal,566,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3695.4,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2742.1,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,883,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.3,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,69,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,313.3,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,389.9,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,351.5,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,331.3,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,331.3,megawatts
+2018,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.1,megawatts
+2018,VA,Virginia,TOT,All sectors,ALL,All,29634.8,megawatts
+2018,VA,Virginia,TOT,All sectors,COL,Coal,3780,megawatts
+2018,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2018,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2018,VA,Virginia,TOT,All sectors,NG,Natural Gas,14552,megawatts
+2018,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,9233.4,megawatts
+2018,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,4245.3,megawatts
+2018,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2018,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,1072,megawatts
+2018,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2018,VA,Virginia,TOT,All sectors,OBM,Other Biomass,314.3,megawatts
+2018,VA,Virginia,TOT,All sectors,PET,Petroleum,2342.9,megawatts
+2018,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,624.5,megawatts
+2018,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,142.4,megawatts
+2018,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2018,VA,Virginia,TOT,All sectors,SOL,Solar,392.5,megawatts
+2018,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,392.5,megawatts
+2018,VA,Virginia,TOT,All sectors,WOO,Wood,578.1,megawatts
+2017,VA,Virginia,EU,Electric Utilities,ALL,All,22371.2,megawatts
+2017,VA,Virginia,EU,Electric Utilities,COL,Coal,3214,megawatts
+2017,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2017,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.6,megawatts
+2017,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,9271.6,megawatts
+2017,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,4906.3,megawatts
+2017,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2017,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,1003,megawatts
+2017,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2017,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2017,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1955.6,megawatts
+2017,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,273,megawatts
+2017,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,106.6,megawatts
+2017,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2017,VA,Virginia,EU,Electric Utilities,SOL,Solar,39.4,megawatts
+2017,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,39.4,megawatts
+2017,VA,Virginia,EU,Electric Utilities,WOO,Wood,236,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,ALL,All,5288.9,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,COL,Coal,564,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,3349.8,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,2752.6,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,532,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.3,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,63.9,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,313.3,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,391,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,352.6,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,307.3,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,307.3,megawatts
+2017,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.1,megawatts
+2017,VA,Virginia,TOT,All sectors,ALL,All,27660.1,megawatts
+2017,VA,Virginia,TOT,All sectors,COL,Coal,3778,megawatts
+2017,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2017,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2017,VA,Virginia,TOT,All sectors,NG,Natural Gas,12621.4,megawatts
+2017,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,7658.9,megawatts
+2017,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3894.3,megawatts
+2017,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2017,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,1066.9,megawatts
+2017,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2017,VA,Virginia,TOT,All sectors,OBM,Other Biomass,314.3,megawatts
+2017,VA,Virginia,TOT,All sectors,PET,Petroleum,2346.6,megawatts
+2017,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,625.6,megawatts
+2017,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,145,megawatts
+2017,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2017,VA,Virginia,TOT,All sectors,SOL,Solar,346.7,megawatts
+2017,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,346.7,megawatts
+2017,VA,Virginia,TOT,All sectors,WOO,Wood,578.1,megawatts
+2016,VA,Virginia,EU,Electric Utilities,ALL,All,22327.5,megawatts
+2016,VA,Virginia,EU,Electric Utilities,COL,Coal,3214,megawatts
+2016,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2016,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.6,megawatts
+2016,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,9238.6,megawatts
+2016,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,4873.3,megawatts
+2016,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.3,megawatts
+2016,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,1003,megawatts
+2016,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2016,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2016,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1960.7,megawatts
+2016,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,275.1,megawatts
+2016,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,109.6,megawatts
+2016,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2016,VA,Virginia,EU,Electric Utilities,SOL,Solar,23.6,megawatts
+2016,VA,Virginia,EU,Electric Utilities,SOLPV,Solar - PV,23.6,megawatts
+2016,VA,Virginia,EU,Electric Utilities,WOO,Wood,236,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,ALL,All,4294.1,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,COL,Coal,586.4,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2561.6,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1986.8,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,532,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,NGIC,Natural Gas - IC,1.3,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,41.5,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,313.3,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,389.3,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,350.9,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,SOL,Solar,80,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,SOLPV,Solar - PV,80,megawatts
+2016,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.1,megawatts
+2016,VA,Virginia,TOT,All sectors,ALL,All,26621.6,megawatts
+2016,VA,Virginia,TOT,All sectors,COL,Coal,3800.4,megawatts
+2016,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2016,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2016,VA,Virginia,TOT,All sectors,NG,Natural Gas,11800.2,megawatts
+2016,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,6860.1,megawatts
+2016,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3894.3,megawatts
+2016,VA,Virginia,TOT,All sectors,NGIC,Natural Gas - IC,1.3,megawatts
+2016,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,1044.5,megawatts
+2016,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2016,VA,Virginia,TOT,All sectors,OBM,Other Biomass,314.3,megawatts
+2016,VA,Virginia,TOT,All sectors,PET,Petroleum,2350,megawatts
+2016,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,626,megawatts
+2016,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,148,megawatts
+2016,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2016,VA,Virginia,TOT,All sectors,SOL,Solar,103.6,megawatts
+2016,VA,Virginia,TOT,All sectors,SOLPV,Solar - PV,103.6,megawatts
+2016,VA,Virginia,TOT,All sectors,WOO,Wood,578.1,megawatts
+2015,VA,Virginia,EU,Electric Utilities,ALL,All,20928.1,megawatts
+2015,VA,Virginia,EU,Electric Utilities,COL,Coal,3674,megawatts
+2015,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2015,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.6,megawatts
+2015,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,7410,megawatts
+2015,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,3502.2,megawatts
+2015,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.1,megawatts
+2015,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,545.7,megawatts
+2015,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2015,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2015,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1953.5,megawatts
+2015,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,275.1,megawatts
+2015,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,102.4,megawatts
+2015,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2015,VA,Virginia,EU,Electric Utilities,WOO,Wood,236,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,ALL,All,4253.5,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,COL,Coal,705.3,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2483.2,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1912.2,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,532,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,39,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,311.7,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,389.8,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,351.4,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2015,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.1,megawatts
+2015,VA,Virginia,TOT,All sectors,ALL,All,25181.6,megawatts
+2015,VA,Virginia,TOT,All sectors,COL,Coal,4379.3,megawatts
+2015,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2015,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2015,VA,Virginia,TOT,All sectors,NG,Natural Gas,9893.2,megawatts
+2015,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,5414.4,megawatts
+2015,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3894.1,megawatts
+2015,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,584.7,megawatts
+2015,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2015,VA,Virginia,TOT,All sectors,OBM,Other Biomass,312.7,megawatts
+2015,VA,Virginia,TOT,All sectors,PET,Petroleum,2343.3,megawatts
+2015,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,626.5,megawatts
+2015,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,140.8,megawatts
+2015,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2015,VA,Virginia,TOT,All sectors,WOO,Wood,578.1,megawatts
+2014,VA,Virginia,EU,Electric Utilities,ALL,All,22061.5,megawatts
+2014,VA,Virginia,EU,Electric Utilities,COL,Coal,4811,megawatts
+2014,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2014,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.6,megawatts
+2014,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,7410,megawatts
+2014,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,3502.2,megawatts
+2014,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362.1,megawatts
+2014,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,545.7,megawatts
+2014,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3568,megawatts
+2014,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2014,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1949.9,megawatts
+2014,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,275.1,megawatts
+2014,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,98.8,megawatts
+2014,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2014,VA,Virginia,EU,Electric Utilities,WOO,Wood,236,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,ALL,All,4230.9,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,COL,Coal,730.9,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2345,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1816.2,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,517,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,11.8,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,305.1,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,OT,Other,96,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,390.4,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,352,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2014,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.1,megawatts
+2014,VA,Virginia,TOT,All sectors,ALL,All,26292.4,megawatts
+2014,VA,Virginia,TOT,All sectors,COL,Coal,5541.9,megawatts
+2014,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2014,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2014,VA,Virginia,TOT,All sectors,NG,Natural Gas,9755,megawatts
+2014,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,5318.4,megawatts
+2014,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3879.1,megawatts
+2014,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,557.5,megawatts
+2014,VA,Virginia,TOT,All sectors,NUC,Nuclear,3568,megawatts
+2014,VA,Virginia,TOT,All sectors,OBM,Other Biomass,306.1,megawatts
+2014,VA,Virginia,TOT,All sectors,OT,Other,96,megawatts
+2014,VA,Virginia,TOT,All sectors,PET,Petroleum,2340.3,megawatts
+2014,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,627.1,megawatts
+2014,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,137.2,megawatts
+2014,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2014,VA,Virginia,TOT,All sectors,WOO,Wood,578.1,megawatts
+2013,VA,Virginia,EU,Electric Utilities,ALL,All,20601.1,megawatts
+2013,VA,Virginia,EU,Electric Utilities,COL,Coal,4811,megawatts
+2013,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2013,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.6,megawatts
+2013,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,5936.3,megawatts
+2013,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,2030,megawatts
+2013,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3360.6,megawatts
+2013,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,545.7,megawatts
+2013,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3581.3,megawatts
+2013,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2013,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1949.9,megawatts
+2013,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,275.1,megawatts
+2013,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,98.8,megawatts
+2013,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1576,megawatts
+2013,VA,Virginia,EU,Electric Utilities,WOO,Wood,236,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,ALL,All,4226.7,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,COL,Coal,743.1,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2334.4,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1816.2,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,517,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,1.2,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,302.4,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,OT,Other,96,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,387.3,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,348.9,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,38.4,megawatts
+2013,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,342.1,megawatts
+2013,VA,Virginia,TOT,All sectors,ALL,All,24827.8,megawatts
+2013,VA,Virginia,TOT,All sectors,COL,Coal,5554.1,megawatts
+2013,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2013,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866,megawatts
+2013,VA,Virginia,TOT,All sectors,NG,Natural Gas,8270.7,megawatts
+2013,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,3846.2,megawatts
+2013,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3877.6,megawatts
+2013,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,546.9,megawatts
+2013,VA,Virginia,TOT,All sectors,NUC,Nuclear,3581.3,megawatts
+2013,VA,Virginia,TOT,All sectors,OBM,Other Biomass,303.4,megawatts
+2013,VA,Virginia,TOT,All sectors,OT,Other,96,megawatts
+2013,VA,Virginia,TOT,All sectors,PET,Petroleum,2337.2,megawatts
+2013,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,624,megawatts
+2013,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,137.2,megawatts
+2013,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1576,megawatts
+2013,VA,Virginia,TOT,All sectors,WOO,Wood,578.1,megawatts
+2012,VA,Virginia,EU,Electric Utilities,ALL,All,20626.1,megawatts
+2012,VA,Virginia,EU,Electric Utilities,COL,Coal,5205,megawatts
+2012,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2012,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.8,megawatts
+2012,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,5709.3,megawatts
+2012,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,2030,megawatts
+2012,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3360.6,megawatts
+2012,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,318.7,megawatts
+2012,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3562,megawatts
+2012,VA,Virginia,EU,Electric Utilities,OBM,Other Biomass,1,megawatts
+2012,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1980,megawatts
+2012,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,275.1,megawatts
+2012,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,100.9,megawatts
+2012,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1604,megawatts
+2012,VA,Virginia,EU,Electric Utilities,WOO,Wood,83,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,ALL,All,4222.5,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,COL,Coal,771.3,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2458.3,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1939.3,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,517,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,2,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,302.4,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,388.7,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,347.3,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,41.4,megawatts
+2012,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,280.4,megawatts
+2012,VA,Virginia,TOT,All sectors,ALL,All,24848.6,megawatts
+2012,VA,Virginia,TOT,All sectors,COL,Coal,5976.3,megawatts
+2012,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2012,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.2,megawatts
+2012,VA,Virginia,TOT,All sectors,NG,Natural Gas,8167.6,megawatts
+2012,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,3969.3,megawatts
+2012,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3877.6,megawatts
+2012,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,320.7,megawatts
+2012,VA,Virginia,TOT,All sectors,NUC,Nuclear,3562,megawatts
+2012,VA,Virginia,TOT,All sectors,OBM,Other Biomass,303.4,megawatts
+2012,VA,Virginia,TOT,All sectors,PET,Petroleum,2368.7,megawatts
+2012,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,622.4,megawatts
+2012,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,142.3,megawatts
+2012,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1604,megawatts
+2012,VA,Virginia,TOT,All sectors,WOO,Wood,363.4,megawatts
+2011,VA,Virginia,EU,Electric Utilities,ALL,All,19999,megawatts
+2011,VA,Virginia,EU,Electric Utilities,COL,Coal,4600.5,megawatts
+2011,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2011,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.8,megawatts
+2011,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,5710.7,megawatts
+2011,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,2030,megawatts
+2011,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362,megawatts
+2011,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,318.7,megawatts
+2011,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3539,megawatts
+2011,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1980,megawatts
+2011,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,275.1,megawatts
+2011,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,100.9,megawatts
+2011,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1604,megawatts
+2011,VA,Virginia,EU,Electric Utilities,WOO,Wood,83,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,ALL,All,4685.9,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1247.6,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2451.9,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1932.9,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,517,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,2,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,294.6,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,390,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,348.6,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,41.4,megawatts
+2011,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,280.4,megawatts
+2011,VA,Virginia,TOT,All sectors,ALL,All,24684.9,megawatts
+2011,VA,Virginia,TOT,All sectors,COL,Coal,5848.1,megawatts
+2011,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2011,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.2,megawatts
+2011,VA,Virginia,TOT,All sectors,NG,Natural Gas,8162.6,megawatts
+2011,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,3962.9,megawatts
+2011,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3879,megawatts
+2011,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,320.7,megawatts
+2011,VA,Virginia,TOT,All sectors,NUC,Nuclear,3539,megawatts
+2011,VA,Virginia,TOT,All sectors,OBM,Other Biomass,294.6,megawatts
+2011,VA,Virginia,TOT,All sectors,PET,Petroleum,2370,megawatts
+2011,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,623.7,megawatts
+2011,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,142.3,megawatts
+2011,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1604,megawatts
+2011,VA,Virginia,TOT,All sectors,WOO,Wood,363.4,megawatts
+2010,VA,Virginia,EU,Electric Utilities,ALL,All,19429.5,megawatts
+2010,VA,Virginia,EU,Electric Utilities,COL,Coal,4594,megawatts
+2010,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2010,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,844.8,megawatts
+2010,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,5121.7,megawatts
+2010,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,1441,megawatts
+2010,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3362,megawatts
+2010,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,318.7,megawatts
+2010,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3501,megawatts
+2010,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2044,megawatts
+2010,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,339.1,megawatts
+2010,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,100.9,megawatts
+2010,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1604,megawatts
+2010,VA,Virginia,EU,Electric Utilities,WOO,Wood,83,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,ALL,All,4679.5,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1273.9,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.4,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2458.9,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1939.9,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,517,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,2,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,289.7,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,387.7,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,345.1,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,42.6,megawatts
+2010,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,247.9,megawatts
+2010,VA,Virginia,TOT,All sectors,ALL,All,24109,megawatts
+2010,VA,Virginia,TOT,All sectors,COL,Coal,5867.9,megawatts
+2010,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2010,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,866.2,megawatts
+2010,VA,Virginia,TOT,All sectors,NG,Natural Gas,7580.6,megawatts
+2010,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,3380.9,megawatts
+2010,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3879,megawatts
+2010,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,320.7,megawatts
+2010,VA,Virginia,TOT,All sectors,NUC,Nuclear,3501,megawatts
+2010,VA,Virginia,TOT,All sectors,OBM,Other Biomass,289.7,megawatts
+2010,VA,Virginia,TOT,All sectors,PET,Petroleum,2431.7,megawatts
+2010,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,684.2,megawatts
+2010,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,143.5,megawatts
+2010,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1604,megawatts
+2010,VA,Virginia,TOT,All sectors,WOO,Wood,330.9,megawatts
+2009,VA,Virginia,EU,Electric Utilities,ALL,All,19130.9,megawatts
+2009,VA,Virginia,EU,Electric Utilities,COL,Coal,4587,megawatts
+2009,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3241,megawatts
+2009,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,694.7,megawatts
+2009,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,5075.7,megawatts
+2009,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,1419,megawatts
+2009,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3338,megawatts
+2009,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,318.7,megawatts
+2009,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3404,megawatts
+2009,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2045.5,megawatts
+2009,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,339.1,megawatts
+2009,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,102.4,megawatts
+2009,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1604,megawatts
+2009,VA,Virginia,EU,Electric Utilities,WOO,Wood,83,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,ALL,All,4657.1,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1190.2,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.2,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2460.1,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1948.2,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,509.9,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,2,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,277.7,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,381.8,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,338,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,43.8,megawatts
+2009,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,326.1,megawatts
+2009,VA,Virginia,TOT,All sectors,ALL,All,23788,megawatts
+2009,VA,Virginia,TOT,All sectors,COL,Coal,5777.2,megawatts
+2009,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3241,megawatts
+2009,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,715.9,megawatts
+2009,VA,Virginia,TOT,All sectors,NG,Natural Gas,7535.8,megawatts
+2009,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,3367.2,megawatts
+2009,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3847.9,megawatts
+2009,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,320.7,megawatts
+2009,VA,Virginia,TOT,All sectors,NUC,Nuclear,3404,megawatts
+2009,VA,Virginia,TOT,All sectors,OBM,Other Biomass,277.7,megawatts
+2009,VA,Virginia,TOT,All sectors,PET,Petroleum,2427.3,megawatts
+2009,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,677.1,megawatts
+2009,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,146.2,megawatts
+2009,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1604,megawatts
+2009,VA,Virginia,TOT,All sectors,WOO,Wood,409.1,megawatts
+2008,VA,Virginia,EU,Electric Utilities,ALL,All,18823.7,megawatts
+2008,VA,Virginia,EU,Electric Utilities,COL,Coal,4587,megawatts
+2008,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3161,megawatts
+2008,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,655.5,megawatts
+2008,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,4896.7,megawatts
+2008,VA,Virginia,EU,Electric Utilities,NGCC,Natural Gas - CC,1419,megawatts
+2008,VA,Virginia,EU,Electric Utilities,NGGT,Natural Gas - GT,3159,megawatts
+2008,VA,Virginia,EU,Electric Utilities,NGST,Natural Gas - ST,318.7,megawatts
+2008,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3404,megawatts
+2008,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2036.5,megawatts
+2008,VA,Virginia,EU,Electric Utilities,PETGT,Petroleum - GT,339.1,megawatts
+2008,VA,Virginia,EU,Electric Utilities,PETIC,Petroleum - IC,93.4,megawatts
+2008,VA,Virginia,EU,Electric Utilities,PETST,Petroleum - ST,1604,megawatts
+2008,VA,Virginia,EU,Electric Utilities,WOO,Wood,83,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,ALL,All,4651.9,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1186.4,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21.2,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2454.1,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,NGCC,Natural Gas - CC,1948.2,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,NGGT,Natural Gas - GT,503.9,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,NGST,Natural Gas - ST,2,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,269.3,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,381.8,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,PETGT,Petroleum - GT,338,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,PETIC,Petroleum - IC,43.8,megawatts
+2008,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,339.1,megawatts
+2008,VA,Virginia,TOT,All sectors,ALL,All,23475.6,megawatts
+2008,VA,Virginia,TOT,All sectors,COL,Coal,5773.4,megawatts
+2008,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3161,megawatts
+2008,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,676.7,megawatts
+2008,VA,Virginia,TOT,All sectors,NG,Natural Gas,7350.8,megawatts
+2008,VA,Virginia,TOT,All sectors,NGCC,Natural Gas - CC,3367.2,megawatts
+2008,VA,Virginia,TOT,All sectors,NGGT,Natural Gas - GT,3662.9,megawatts
+2008,VA,Virginia,TOT,All sectors,NGST,Natural Gas - ST,320.7,megawatts
+2008,VA,Virginia,TOT,All sectors,NUC,Nuclear,3404,megawatts
+2008,VA,Virginia,TOT,All sectors,OBM,Other Biomass,269.3,megawatts
+2008,VA,Virginia,TOT,All sectors,PET,Petroleum,2418.3,megawatts
+2008,VA,Virginia,TOT,All sectors,PETGT,Petroleum - GT,677.1,megawatts
+2008,VA,Virginia,TOT,All sectors,PETIC,Petroleum - IC,137.2,megawatts
+2008,VA,Virginia,TOT,All sectors,PETST,Petroleum - ST,1604,megawatts
+2008,VA,Virginia,TOT,All sectors,WOO,Wood,422.1,megawatts
+2007,VA,Virginia,EU,Electric Utilities,ALL,All,18372,megawatts
+2007,VA,Virginia,EU,Electric Utilities,COL,Coal,4605,megawatts
+2007,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,3161,megawatts
+2007,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,654,megawatts
+2007,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,4429,megawatts
+2007,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3404,megawatts
+2007,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2037,megawatts
+2007,VA,Virginia,EU,Electric Utilities,WOO,Wood,83,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,ALL,All,4620,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1189,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2440,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,254,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,381,megawatts
+2007,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,335,megawatts
+2007,VA,Virginia,TOT,All sectors,ALL,All,22992,megawatts
+2007,VA,Virginia,TOT,All sectors,COL,Coal,5794,megawatts
+2007,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,3161,megawatts
+2007,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,675,megawatts
+2007,VA,Virginia,TOT,All sectors,NG,Natural Gas,6869,megawatts
+2007,VA,Virginia,TOT,All sectors,NUC,Nuclear,3404,megawatts
+2007,VA,Virginia,TOT,All sectors,OBM,Other Biomass,254,megawatts
+2007,VA,Virginia,TOT,All sectors,PET,Petroleum,2418,megawatts
+2007,VA,Virginia,TOT,All sectors,WOO,Wood,418,megawatts
+2006,VA,Virginia,EU,Electric Utilities,ALL,All,18162,megawatts
+2006,VA,Virginia,EU,Electric Utilities,COL,Coal,4586,megawatts
+2006,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2997,megawatts
+2006,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,650,megawatts
+2006,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,4395,megawatts
+2006,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3432,megawatts
+2006,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2023,megawatts
+2006,VA,Virginia,EU,Electric Utilities,WOO,Wood,80,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,ALL,All,4486,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1188,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2414,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,170,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,363,megawatts
+2006,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,330,megawatts
+2006,VA,Virginia,TOT,All sectors,ALL,All,22648,megawatts
+2006,VA,Virginia,TOT,All sectors,COL,Coal,5774,megawatts
+2006,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2997,megawatts
+2006,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,671,megawatts
+2006,VA,Virginia,TOT,All sectors,NG,Natural Gas,6809,megawatts
+2006,VA,Virginia,TOT,All sectors,NUC,Nuclear,3432,megawatts
+2006,VA,Virginia,TOT,All sectors,OBM,Other Biomass,170,megawatts
+2006,VA,Virginia,TOT,All sectors,PET,Petroleum,2386,megawatts
+2006,VA,Virginia,TOT,All sectors,WOO,Wood,410,megawatts
+2005,VA,Virginia,EU,Electric Utilities,ALL,All,18087,megawatts
+2005,VA,Virginia,EU,Electric Utilities,COL,Coal,4586,megawatts
+2005,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2917,megawatts
+2005,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,650,megawatts
+2005,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,4395,megawatts
+2005,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3432,megawatts
+2005,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2027,megawatts
+2005,VA,Virginia,EU,Electric Utilities,WOO,Wood,80,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,ALL,All,4513,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1197,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2433,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,168,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,363,megawatts
+2005,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,330,megawatts
+2005,VA,Virginia,TOT,All sectors,ALL,All,22599,megawatts
+2005,VA,Virginia,TOT,All sectors,COL,Coal,5783,megawatts
+2005,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2917,megawatts
+2005,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,672,megawatts
+2005,VA,Virginia,TOT,All sectors,NG,Natural Gas,6828,megawatts
+2005,VA,Virginia,TOT,All sectors,NUC,Nuclear,3432,megawatts
+2005,VA,Virginia,TOT,All sectors,OBM,Other Biomass,168,megawatts
+2005,VA,Virginia,TOT,All sectors,PET,Petroleum,2390,megawatts
+2005,VA,Virginia,TOT,All sectors,WOO,Wood,409,megawatts
+2004,VA,Virginia,EU,Electric Utilities,ALL,All,17547,megawatts
+2004,VA,Virginia,EU,Electric Utilities,COL,Coal,4468,megawatts
+2004,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2700,megawatts
+2004,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,760,megawatts
+2004,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,4101,megawatts
+2004,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3440,megawatts
+2004,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2078,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,ALL,All,4934,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1327,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2654,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,168,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,359,megawatts
+2004,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,404,megawatts
+2004,VA,Virginia,TOT,All sectors,ALL,All,22481,megawatts
+2004,VA,Virginia,TOT,All sectors,COL,Coal,5795,megawatts
+2004,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2700,megawatts
+2004,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,782,megawatts
+2004,VA,Virginia,TOT,All sectors,NG,Natural Gas,6754,megawatts
+2004,VA,Virginia,TOT,All sectors,NUC,Nuclear,3440,megawatts
+2004,VA,Virginia,TOT,All sectors,OBM,Other Biomass,168,megawatts
+2004,VA,Virginia,TOT,All sectors,PET,Petroleum,2437,megawatts
+2004,VA,Virginia,TOT,All sectors,WOO,Wood,404,megawatts
+2003,VA,Virginia,EU,Electric Utilities,ALL,All,17045,megawatts
+2003,VA,Virginia,EU,Electric Utilities,COL,Coal,4405,megawatts
+2003,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2638,megawatts
+2003,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,759,megawatts
+2003,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,3714,megawatts
+2003,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3467,megawatts
+2003,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2061,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,ALL,All,4127,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1328,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,21,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1844,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,168,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,361,megawatts
+2003,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,404,megawatts
+2003,VA,Virginia,TOT,All sectors,ALL,All,21171,megawatts
+2003,VA,Virginia,TOT,All sectors,COL,Coal,5733,megawatts
+2003,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2638,megawatts
+2003,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,780,megawatts
+2003,VA,Virginia,TOT,All sectors,NG,Natural Gas,5558,megawatts
+2003,VA,Virginia,TOT,All sectors,NUC,Nuclear,3467,megawatts
+2003,VA,Virginia,TOT,All sectors,OBM,Other Biomass,168,megawatts
+2003,VA,Virginia,TOT,All sectors,PET,Petroleum,2422,megawatts
+2003,VA,Virginia,TOT,All sectors,WOO,Wood,404,megawatts
+2002,VA,Virginia,EU,Electric Utilities,ALL,All,15817,megawatts
+2002,VA,Virginia,EU,Electric Utilities,COL,Coal,4789,megawatts
+2002,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2645,megawatts
+2002,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,738,megawatts
+2002,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,2097,megawatts
+2002,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3467,megawatts
+2002,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2081,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,ALL,All,4386,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1328,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,20,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,2094,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,168,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,361,megawatts
+2002,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,414,megawatts
+2002,VA,Virginia,TOT,All sectors,ALL,All,20202,megawatts
+2002,VA,Virginia,TOT,All sectors,COL,Coal,6117,megawatts
+2002,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2645,megawatts
+2002,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,757,megawatts
+2002,VA,Virginia,TOT,All sectors,NG,Natural Gas,4191,megawatts
+2002,VA,Virginia,TOT,All sectors,NUC,Nuclear,3467,megawatts
+2002,VA,Virginia,TOT,All sectors,OBM,Other Biomass,168,megawatts
+2002,VA,Virginia,TOT,All sectors,PET,Petroleum,2442,megawatts
+2002,VA,Virginia,TOT,All sectors,WOO,Wood,414,megawatts
+2001,VA,Virginia,EU,Electric Utilities,ALL,All,15761,megawatts
+2001,VA,Virginia,EU,Electric Utilities,COL,Coal,4784,megawatts
+2001,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+2001,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,738,megawatts
+2001,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,2119,megawatts
+2001,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3467,megawatts
+2001,VA,Virginia,EU,Electric Utilities,OT,Other,129,megawatts
+2001,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2180,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,ALL,All,4325,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1353,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,20,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1589,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,168,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,OT,Other,432,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,361,megawatts
+2001,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,402,megawatts
+2001,VA,Virginia,TOT,All sectors,ALL,All,20086,megawatts
+2001,VA,Virginia,TOT,All sectors,COL,Coal,6137,megawatts
+2001,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+2001,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,758,megawatts
+2001,VA,Virginia,TOT,All sectors,NG,Natural Gas,3707,megawatts
+2001,VA,Virginia,TOT,All sectors,NUC,Nuclear,3467,megawatts
+2001,VA,Virginia,TOT,All sectors,OBM,Other Biomass,168,megawatts
+2001,VA,Virginia,TOT,All sectors,OT,Other,561,megawatts
+2001,VA,Virginia,TOT,All sectors,PET,Petroleum,2541,megawatts
+2001,VA,Virginia,TOT,All sectors,WOO,Wood,402,megawatts
+2000,VA,Virginia,EU,Electric Utilities,ALL,All,15608,megawatts
+2000,VA,Virginia,EU,Electric Utilities,COL,Coal,4796,megawatts
+2000,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+2000,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,742,megawatts
+2000,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,1877,megawatts
+2000,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3467,megawatts
+2000,VA,Virginia,EU,Electric Utilities,OT,Other,206,megawatts
+2000,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2176,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,ALL,All,4017,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1589,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,20,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1649,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,219,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,186,megawatts
+2000,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,354,megawatts
+2000,VA,Virginia,TOT,All sectors,ALL,All,19625,megawatts
+2000,VA,Virginia,TOT,All sectors,COL,Coal,6385,megawatts
+2000,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+2000,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,762,megawatts
+2000,VA,Virginia,TOT,All sectors,NG,Natural Gas,3526,megawatts
+2000,VA,Virginia,TOT,All sectors,NUC,Nuclear,3467,megawatts
+2000,VA,Virginia,TOT,All sectors,OBM,Other Biomass,219,megawatts
+2000,VA,Virginia,TOT,All sectors,OT,Other,206,megawatts
+2000,VA,Virginia,TOT,All sectors,PET,Petroleum,2362,megawatts
+2000,VA,Virginia,TOT,All sectors,WOO,Wood,354,megawatts
+1999,VA,Virginia,EU,Electric Utilities,ALL,All,15312,megawatts
+1999,VA,Virginia,EU,Electric Utilities,COL,Coal,5099,megawatts
+1999,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1999,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,739,megawatts
+1999,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,1318,megawatts
+1999,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3392,megawatts
+1999,VA,Virginia,EU,Electric Utilities,OT,Other,206,megawatts
+1999,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2214,megawatts
+1999,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,ALL,All,3415,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1106,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,20,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1638,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,210,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,17,megawatts
+1999,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,424,megawatts
+1999,VA,Virginia,TOT,All sectors,ALL,All,18727,megawatts
+1999,VA,Virginia,TOT,All sectors,COL,Coal,6205,megawatts
+1999,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1999,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,759,megawatts
+1999,VA,Virginia,TOT,All sectors,NG,Natural Gas,2955,megawatts
+1999,VA,Virginia,TOT,All sectors,NUC,Nuclear,3392,megawatts
+1999,VA,Virginia,TOT,All sectors,OBM,Other Biomass,210,megawatts
+1999,VA,Virginia,TOT,All sectors,OT,Other,206,megawatts
+1999,VA,Virginia,TOT,All sectors,PET,Petroleum,2231,megawatts
+1999,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1999,VA,Virginia,TOT,All sectors,WOO,Wood,424,megawatts
+1998,VA,Virginia,EU,Electric Utilities,ALL,All,15316,megawatts
+1998,VA,Virginia,EU,Electric Utilities,COL,Coal,5099,megawatts
+1998,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1998,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,742,megawatts
+1998,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,1318,megawatts
+1998,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3392,megawatts
+1998,VA,Virginia,EU,Electric Utilities,OT,Other,206,megawatts
+1998,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2214,megawatts
+1998,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,ALL,All,3434,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1122,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1637,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,212,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,17,megawatts
+1998,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,424,megawatts
+1998,VA,Virginia,TOT,All sectors,ALL,All,18749,megawatts
+1998,VA,Virginia,TOT,All sectors,COL,Coal,6221,megawatts
+1998,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1998,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,764,megawatts
+1998,VA,Virginia,TOT,All sectors,NG,Natural Gas,2955,megawatts
+1998,VA,Virginia,TOT,All sectors,NUC,Nuclear,3392,megawatts
+1998,VA,Virginia,TOT,All sectors,OBM,Other Biomass,212,megawatts
+1998,VA,Virginia,TOT,All sectors,OT,Other,206,megawatts
+1998,VA,Virginia,TOT,All sectors,PET,Petroleum,2231,megawatts
+1998,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1998,VA,Virginia,TOT,All sectors,WOO,Wood,424,megawatts
+1997,VA,Virginia,EU,Electric Utilities,ALL,All,15293,megawatts
+1997,VA,Virginia,EU,Electric Utilities,COL,Coal,5099,megawatts
+1997,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1997,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,740,megawatts
+1997,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,1395,megawatts
+1997,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3392,megawatts
+1997,VA,Virginia,EU,Electric Utilities,OT,Other,129,megawatts
+1997,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2193,megawatts
+1997,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,ALL,All,3439,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1150,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,832,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,218,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,823,megawatts
+1997,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,396,megawatts
+1997,VA,Virginia,TOT,All sectors,ALL,All,18732,megawatts
+1997,VA,Virginia,TOT,All sectors,COL,Coal,6249,megawatts
+1997,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1997,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,761,megawatts
+1997,VA,Virginia,TOT,All sectors,NG,Natural Gas,2226,megawatts
+1997,VA,Virginia,TOT,All sectors,NUC,Nuclear,3392,megawatts
+1997,VA,Virginia,TOT,All sectors,OBM,Other Biomass,218,megawatts
+1997,VA,Virginia,TOT,All sectors,OT,Other,129,megawatts
+1997,VA,Virginia,TOT,All sectors,PET,Petroleum,3016,megawatts
+1997,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1997,VA,Virginia,TOT,All sectors,WOO,Wood,396,megawatts
+1996,VA,Virginia,EU,Electric Utilities,ALL,All,14764,megawatts
+1996,VA,Virginia,EU,Electric Utilities,COL,Coal,5099,megawatts
+1996,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1996,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,741,megawatts
+1996,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,865,megawatts
+1996,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3392,megawatts
+1996,VA,Virginia,EU,Electric Utilities,OT,Other,129,megawatts
+1996,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2193,megawatts
+1996,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,ALL,All,3609,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,COL,Coal,1119,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1805,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,218,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,17,megawatts
+1996,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,429,megawatts
+1996,VA,Virginia,TOT,All sectors,ALL,All,18373,megawatts
+1996,VA,Virginia,TOT,All sectors,COL,Coal,6218,megawatts
+1996,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1996,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,762,megawatts
+1996,VA,Virginia,TOT,All sectors,NG,Natural Gas,2670,megawatts
+1996,VA,Virginia,TOT,All sectors,NUC,Nuclear,3392,megawatts
+1996,VA,Virginia,TOT,All sectors,OBM,Other Biomass,218,megawatts
+1996,VA,Virginia,TOT,All sectors,OT,Other,129,megawatts
+1996,VA,Virginia,TOT,All sectors,PET,Petroleum,2210,megawatts
+1996,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1996,VA,Virginia,TOT,All sectors,WOO,Wood,429,megawatts
+1995,VA,Virginia,EU,Electric Utilities,ALL,All,14300,megawatts
+1995,VA,Virginia,EU,Electric Utilities,COL,Coal,5451,megawatts
+1995,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1995,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,742,megawatts
+1995,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,995,megawatts
+1995,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3392,megawatts
+1995,VA,Virginia,EU,Electric Utilities,PET,Petroleum,1375,megawatts
+1995,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,ALL,All,3328,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,COL,Coal,925,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1805,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,163,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,15,megawatts
+1995,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,399,megawatts
+1995,VA,Virginia,TOT,All sectors,ALL,All,17627,megawatts
+1995,VA,Virginia,TOT,All sectors,COL,Coal,6376,megawatts
+1995,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1995,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,763,megawatts
+1995,VA,Virginia,TOT,All sectors,NG,Natural Gas,2800,megawatts
+1995,VA,Virginia,TOT,All sectors,NUC,Nuclear,3392,megawatts
+1995,VA,Virginia,TOT,All sectors,OBM,Other Biomass,163,megawatts
+1995,VA,Virginia,TOT,All sectors,PET,Petroleum,1390,megawatts
+1995,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1995,VA,Virginia,TOT,All sectors,WOO,Wood,399,megawatts
+1994,VA,Virginia,EU,Electric Utilities,ALL,All,13764,megawatts
+1994,VA,Virginia,EU,Electric Utilities,COL,Coal,4217,megawatts
+1994,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1994,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,764,megawatts
+1994,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,400,megawatts
+1994,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3349,megawatts
+1994,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2690,megawatts
+1994,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,ALL,All,3332,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,COL,Coal,894,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1805,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,163,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,15,megawatts
+1994,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,433,megawatts
+1994,VA,Virginia,TOT,All sectors,ALL,All,17096,megawatts
+1994,VA,Virginia,TOT,All sectors,COL,Coal,5111,megawatts
+1994,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1994,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,786,megawatts
+1994,VA,Virginia,TOT,All sectors,NG,Natural Gas,2205,megawatts
+1994,VA,Virginia,TOT,All sectors,NUC,Nuclear,3349,megawatts
+1994,VA,Virginia,TOT,All sectors,OBM,Other Biomass,163,megawatts
+1994,VA,Virginia,TOT,All sectors,PET,Petroleum,2705,megawatts
+1994,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1994,VA,Virginia,TOT,All sectors,WOO,Wood,433,megawatts
+1993,VA,Virginia,EU,Electric Utilities,ALL,All,14055,megawatts
+1993,VA,Virginia,EU,Electric Utilities,COL,Coal,4217,megawatts
+1993,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1993,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,765,megawatts
+1993,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,595,megawatts
+1993,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3349,megawatts
+1993,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2785,megawatts
+1993,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,ALL,All,2983,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,COL,Coal,894,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,22,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1544,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,159,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,15,megawatts
+1993,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,349,megawatts
+1993,VA,Virginia,TOT,All sectors,ALL,All,17038,megawatts
+1993,VA,Virginia,TOT,All sectors,COL,Coal,5111,megawatts
+1993,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1993,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,787,megawatts
+1993,VA,Virginia,TOT,All sectors,NG,Natural Gas,2139,megawatts
+1993,VA,Virginia,TOT,All sectors,NUC,Nuclear,3349,megawatts
+1993,VA,Virginia,TOT,All sectors,OBM,Other Biomass,159,megawatts
+1993,VA,Virginia,TOT,All sectors,PET,Petroleum,2799,megawatts
+1993,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1993,VA,Virginia,TOT,All sectors,WOO,Wood,349,megawatts
+1992,VA,Virginia,EU,Electric Utilities,ALL,All,14020,megawatts
+1992,VA,Virginia,EU,Electric Utilities,COL,Coal,4217,megawatts
+1992,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1992,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,763,megawatts
+1992,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,336,megawatts
+1992,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3349,megawatts
+1992,VA,Virginia,EU,Electric Utilities,OT,Other,257,megawatts
+1992,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2753,megawatts
+1992,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,ALL,All,2913,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,COL,Coal,913,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,18,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,1474,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,153,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,6,megawatts
+1992,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,349,megawatts
+1992,VA,Virginia,TOT,All sectors,ALL,All,16933,megawatts
+1992,VA,Virginia,TOT,All sectors,COL,Coal,5130,megawatts
+1992,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1992,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,781,megawatts
+1992,VA,Virginia,TOT,All sectors,NG,Natural Gas,1810,megawatts
+1992,VA,Virginia,TOT,All sectors,NUC,Nuclear,3349,megawatts
+1992,VA,Virginia,TOT,All sectors,OBM,Other Biomass,153,megawatts
+1992,VA,Virginia,TOT,All sectors,OT,Other,257,megawatts
+1992,VA,Virginia,TOT,All sectors,PET,Petroleum,2759,megawatts
+1992,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1992,VA,Virginia,TOT,All sectors,WOO,Wood,349,megawatts
+1991,VA,Virginia,EU,Electric Utilities,ALL,All,13652,megawatts
+1991,VA,Virginia,EU,Electric Utilities,COL,Coal,4210,megawatts
+1991,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1991,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,765,megawatts
+1991,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,136,megawatts
+1991,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3382,megawatts
+1991,VA,Virginia,EU,Electric Utilities,OT,Other,62,megawatts
+1991,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2753,megawatts
+1991,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,ALL,All,1835,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,COL,Coal,462,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,18,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,698,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,150,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,PET,Petroleum,159,megawatts
+1991,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,349,megawatts
+1991,VA,Virginia,TOT,All sectors,ALL,All,15488,megawatts
+1991,VA,Virginia,TOT,All sectors,COL,Coal,4672,megawatts
+1991,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1991,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,782,megawatts
+1991,VA,Virginia,TOT,All sectors,NG,Natural Gas,833,megawatts
+1991,VA,Virginia,TOT,All sectors,NUC,Nuclear,3382,megawatts
+1991,VA,Virginia,TOT,All sectors,OBM,Other Biomass,150,megawatts
+1991,VA,Virginia,TOT,All sectors,OT,Other,62,megawatts
+1991,VA,Virginia,TOT,All sectors,PET,Petroleum,2912,megawatts
+1991,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1991,VA,Virginia,TOT,All sectors,WOO,Wood,349,megawatts
+1990,VA,Virginia,EU,Electric Utilities,ALL,All,13661,megawatts
+1990,VA,Virginia,EU,Electric Utilities,COL,Coal,4225,megawatts
+1990,VA,Virginia,EU,Electric Utilities,HPS,Pumped Storage,2345,megawatts
+1990,VA,Virginia,EU,Electric Utilities,HYC,Hydroelectric,765,megawatts
+1990,VA,Virginia,EU,Electric Utilities,NG,Natural Gas,130,megawatts
+1990,VA,Virginia,EU,Electric Utilities,NUC,Nuclear,3382,megawatts
+1990,VA,Virginia,EU,Electric Utilities,OT,Other,62,megawatts
+1990,VA,Virginia,EU,Electric Utilities,PET,Petroleum,2752,megawatts
+1990,VA,Virginia,EU,Electric Utilities,SOL,Solar,0,megawatts
+1990,VA,Virginia,IPP,Independent Power Producers,ALL,All,1404,megawatts
+1990,VA,Virginia,IPP,Independent Power Producers,COL,Coal,373,megawatts
+1990,VA,Virginia,IPP,Independent Power Producers,HYC,Hydroelectric,13,megawatts
+1990,VA,Virginia,IPP,Independent Power Producers,NG,Natural Gas,531,megawatts
+1990,VA,Virginia,IPP,Independent Power Producers,OBM,Other Biomass,147,megawatts
+1990,VA,Virginia,IPP,Independent Power Producers,WOO,Wood,340,megawatts
+1990,VA,Virginia,TOT,All sectors,ALL,All,15065,megawatts
+1990,VA,Virginia,TOT,All sectors,COL,Coal,4598,megawatts
+1990,VA,Virginia,TOT,All sectors,HPS,Pumped Storage,2345,megawatts
+1990,VA,Virginia,TOT,All sectors,HYC,Hydroelectric,778,megawatts
+1990,VA,Virginia,TOT,All sectors,NG,Natural Gas,661,megawatts
+1990,VA,Virginia,TOT,All sectors,NUC,Nuclear,3382,megawatts
+1990,VA,Virginia,TOT,All sectors,OBM,Other Biomass,147,megawatts
+1990,VA,Virginia,TOT,All sectors,OT,Other,62,megawatts
+1990,VA,Virginia,TOT,All sectors,PET,Petroleum,2752,megawatts
+1990,VA,Virginia,TOT,All sectors,SOL,Solar,0,megawatts
+1990,VA,Virginia,TOT,All sectors,WOO,Wood,340,megawatts
