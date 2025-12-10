@@ -37,7 +37,7 @@ This project explores the relationship between data centers and Virginia's energ
 
 ## Key Findings
 
-The analysis reveals significant shifts in Virginia's energy generation mix, with particular emphasis on natural gas and other energy sources that provide the reliability and capacity needed to support data center operations. The findings highlight both opportunities and challenges facing Virginia's power grid as it adapts to support the world's largest data center market.
+The analysis reveals significant shifts in Virginia's energy generation mix, with particular emphasis on natural gas and other energy sources that provide the reliability and capacity needed to support data center operations. The findings highlight surprising stats facing Virginia's power grid as it adapts to support the world's largest data center market.
 
 ## Resources
 
